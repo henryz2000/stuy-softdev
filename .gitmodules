@@ -1,0 +1,81 @@
+[submodule "1-hw04"]
+	path = 1-hw04
+	url = https://github.com/henryz2000-stuycs/flask-intro.git
+[submodule "1-hw06"]
+	path = 1-hw06
+	url = https://github.com/henryz2000-stuycs/sdEcho.git
+[submodule "1-hw09"]
+	path = 1-hw09
+	url = https://github.com/henryz2000-stuycs/sdSQLite.git
+[submodule "1-hw11"]
+	path = 1-hw11
+	url = https://github.com/henryz2000-stuycs/sdCSS.git
+[submodule "1-hw13"]
+	path = 1-hw13
+	url = https://github.com/henryz2000-stuycs/sdREST.git
+[submodule "1-hw16"]
+	path = 1-hw16
+	url = https://github.com/henryz2000-stuycs/sdDOM.git
+[submodule "1-hw07"]
+	path = 1-hw07
+	url = https://github.com/JackieW001/07-login.git
+[submodule "1-hw05"]
+	path = 1-hw05
+	url = https://github.com/JackieW001/05-jinjatraining.git
+[submodule "1-hw03"]
+	path = 1-hw03
+	url = https://github.com/JackieW001/03-occupation.git
+[submodule "1-hw02"]
+	path = 1-hw02
+	url = https://github.com/JackieW001/02-get_your_pyth-on.git
+[submodule "1-hw08"]
+	path = 1-hw08
+	url = https://github.com/JackieW001/08-redirect.git
+[submodule "1-hw08a"]
+	path = 1-hw08a
+	url = https://github.com/JackieW001/08a-flash.git
+[submodule "1-hw10"]
+	path = 1-hw10
+	url = https://github.com/JackieW001/10-StuAvg.git
+[submodule "1-hw12"]
+	path = 1-hw12
+	url = https://github.com/az333/09-11-17-softdev.git
+[submodule "1-hw15"]
+	path = 1-hw15
+	url = https://github.com/JonathanQuang/javaScriptFirstTime.git
+[submodule "1-hw17"]
+	path = 1-hw17
+	url = https://github.com/BermetKalmakova/Moo.git
+[submodule "1-proj0"]
+	path = 1-proj0
+	url = https://github.com/henryz2000-stuycs/tacoCat.git
+[submodule "1-proj1"]
+	path = 1-proj1
+	url = https://github.com/JFreud/jubilant-api-project.git
+[submodule "1-proj2"]
+	path = 1-proj2
+	url = https://github.com/clei1/softdev1-finalproj.git
+[submodule "2-hw01a"]
+	path = 2-hw01a
+	url = https://github.com/henryz2000-stuycs/sdConnect.git
+[submodule "2-hw01b"]
+	path = 2-hw01b
+	url = https://github.com/henryz2000-stuycs/sdCanvas.git
+[submodule "2-hw02"]
+	path = 2-hw02
+	url = https://github.com/henryz2000-stuycs/sdGrow.git
+[submodule "2-hw07"]
+	path = 2-hw07
+	url = https://github.com/henryz2000-stuycs/sdSVG.git
+[submodule "2-hw08"]
+	path = 2-hw08
+	url = https://github.com/henryz2000-stuycs/sdSVGAnimation.git
+[submodule "2-hw09"]
+	path = 2-hw09
+	url = https://github.com/henryz2000-stuycs/sdSVGEvents.git
+[submodule "2-hw14"]
+	path = 2-hw14
+	url = https://github.com/henryz2000-stuycs/sdTransition.git
+[submodule "2-hw15"]
+	path = 2-hw15
+	url = https://github.com/henryz2000-stuycs/sdListComp.git
