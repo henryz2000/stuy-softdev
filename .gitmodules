@@ -79,3 +79,39 @@
 [submodule "2-hw15"]
 	path = 2-hw15
 	url = https://github.com/henryz2000-stuycs/sdListComp.git
+[submodule "2-hw04"]
+	path = 2-hw04
+	url = https://github.com/LMOlevsky/04-sem2-sd.git
+[submodule "2-hw06"]
+	path = 2-hw06
+	url = https://github.com/LMOlevsky/06-sem2-sd.git
+[submodule "2-hw10"]
+	path = 2-hw10
+	url = https://github.com/LMOlevsky/10-sem2-sd.git
+[submodule "2-hw11"]
+	path = 2-hw11
+	url = https://github.com/LMOlevsky/11-sem2-sd.git
+[submodule "2-hw12"]
+	path = 2-hw12
+	url = https://github.com/LMOlevsky/12-sem2-sd.git
+[submodule "2-hw13"]
+	path = 2-hw13
+	url = https://github.com/LMOlevsky/13-sem2-sd.git
+[submodule "2-hw16"]
+	path = 2-hw16
+	url = https://github.com/Hyhyme/sd_16.git
+[submodule "2-hw19"]
+	path = 2-hw19
+	url = https://github.com/Hyhyme/sd_19.git
+[submodule "2-hw18"]
+	path = 2-hw18
+	url = https://github.com/Hyhyme/sd_18.git
+[submodule "2-proj0"]
+	path = 2-proj0
+	url = https://github.com/henryz2000-stuycs/sdLatex.git
+[submodule "2-proj1"]
+	path = 2-proj1
+	url = https://github.com/manahaltabassum/term02_project01.git
+[submodule "2-proj2"]
+	path = 2-proj2
+	url = https://github.com/JackieW001/J-HEX.git
